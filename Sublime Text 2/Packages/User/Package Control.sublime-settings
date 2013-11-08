@@ -1,0 +1,35 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AMDtools",
+		"Ant",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"CSSFormat",
+		"Dotfiles Syntax Highlighting",
+		"HtmlTidy",
+		"JavaScript and jQuery API Completions",
+		"jQuery",
+		"jQuery Snippets pack",
+		"JsFormat",
+		"JSLint",
+		"Markdown Preview",
+		"nginx",
+		"Package Control",
+		"Pretty JSON",
+		"Python Auto-Complete",
+		"Python Imports Sorter",
+		"Python PEP8 Autoformat",
+		"PythonTidy",
+		"SideBarEnhancements",
+		"SJSON",
+		"SublimeLinter",
+		"SublimeREPL",
+		"SublimeRope",
+		"Sublimipsum",
+		"Tag",
+		"Theme - Soda",
+		"Twitter Bootstrap Snippets"
+	]
+}
