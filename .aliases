@@ -12,10 +12,18 @@ alias -- -="cd -"
 alias d="cd ~/Documents/Dropbox"
 alias dl="cd ~/Downloads"
 alias dt="cd ~/Desktop"
-alias p="cd ~/Projects"
+alias p="cd /Volumes/Work/Projects"
 alias g="git"
 alias h="history"
 alias j="jobs"
+alias cl='clear'
+
+alias subl='/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl'
+
+# projects shortcuts 
+alias wdrive="cd /Volumes/Work/sites/dev/wdrive"
+alias ziiccaserver="ssh root@151.236.221.171"
+alias ziicca="cd /Volumes/Work/projects/zicca/web/code"
 
 
 
